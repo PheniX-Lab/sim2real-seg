@@ -1,8 +1,9 @@
 # sim2real-seg
 self-supersived rice and wheat image segmentation
 
-The link for the file 'rice_sim2real.pth' is....   
-The link for the file 'wheat_sim2real.pth' is....
+The link for the file 'rice_sim2real.pth' is https://drive.google.com/file/d/1ZC2iPtRcbkxdAJMY4GhcswQhn2EDhsHn/view?usp=sharing   
+The link for the file 'wheat_sim2real.pth' is https://drive.google.com/file/d/1SJnu9xwewo8eTgxP7zbXNiH3ABXPVuXv/view?usp=sharing
+
 ## Citation
 If you use our project in your research or wish to refer to the results of the project, please use the following BibTeX entry.
 
